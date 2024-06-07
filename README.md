@@ -4,6 +4,8 @@
 
 I'm excited to share my latest Power BI project, where I analyzed a survey of data professionals to uncover key insights into their demographics, salaries, job satisfaction, and more. This project was inspired by a guided project from Alex the Analyst.
 
+<video src="C:\Users\micha\Videos\Recording 2024-06-07 154822.mp4" width="320" height="240" controls></video>
+
 ## 📝 Project Overview
 - **Title:** Data Professionals Survey Analysis
 - **Objective:** To analyze and visualize survey responses from data professionals, providing insights into demographics, job satisfaction, skillsets, and career aspirations.
