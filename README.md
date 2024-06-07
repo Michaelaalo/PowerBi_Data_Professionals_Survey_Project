@@ -7,7 +7,8 @@ I'm excited to share my latest Power BI project, where I analyzed a survey of da
 
 
 
-Uploading Untitled video - Made with Clipchamp.mp4…
+
+https://github.com/Michaelaalo/PowerBi_Data_Professionals_Survey_Project/assets/93910710/6e392559-f261-47c7-a80e-59717523979f
 
 
 ## 📝 Project Overview
