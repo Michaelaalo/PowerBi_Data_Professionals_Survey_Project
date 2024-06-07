@@ -6,6 +6,10 @@ I'm excited to share my latest Power BI project, where I analyzed a survey of da
 
 
 
+
+Uploading Untitled video - Made with Clipchamp.mp4…
+
+
 ## 📝 Project Overview
 - **Title:** Data Professionals Survey Analysis
 - **Objective:** To analyze and visualize survey responses from data professionals, providing insights into demographics, job satisfaction, skillsets, and career aspirations.
